@@ -10,3 +10,11 @@ Mình cung cấp sẵn file ipython giúp các bạn có thể dễ dàng thử 
 Mình dùng tập dataset tự phát sinh để làm ví dụ cho thuật toán YOLO v1. Tập dữ liệu này tương đối nhẹ và dễ nên giúp các bạn dễ dàng huấn luyện mô hình với độ chính xác cao đồng thời giúp mình có thể phân tích một số hạn chế của mô hình
 
 ![dataset](/image/dataset.png)
+
+## Chi tiết mô hình
+Các bạn có thể đọc chi tiết mô hình tại [blog](https://pbcquoc.github.io/yolo/) của mình hoặc xem hướng dẫn trong file ipython. Các nêu khá rõ về hướng tiếp cẫn cũng như chi tiết của mô hình. Đồng thời kết quả trên tập dữ liệu mẫu ở trên
+
+## Kết quả của mô hình
+
+## Any Problems
+Nếu bạn có bất kì vấn đề gì, vui lòng liên hệ với mình qua email: pbcquoc@gmail.com
