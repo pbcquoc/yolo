@@ -9,3 +9,4 @@ Mình cung cấp sẵn file ipython giúp các bạn có thể dễ dàng thử 
 ## Dataset
 Mình dùng tập dataset tự phát sinh để làm ví dụ cho thuật toán YOLO v1. Tập dữ liệu này tương đối nhẹ và dễ nên giúp các bạn dễ dàng huấn luyện mô hình với độ chính xác cao đồng thời giúp mình có thể phân tích một số hạn chế của mô hình
 
+![dataset](/image/dataset.png)
